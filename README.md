@@ -8,20 +8,26 @@ Materials compiled from the Federal Data Strategies session series.
 - [Session description](https://2023julyesipmeeting.sched.com/event/1Nocm)
 - [Notes document](https://docs.google.com/document/d/1f9tFq08-Srwh5aL7KQCD0wYXyQGIcFzBUm6l2_gVT2o/edit?tab=t.0)
 - [Intro slides](https://docs.google.com/presentation/d/1OGDaQo37zdoqIAb7a-KxJANjfnVQnBcBfO1T2UCngY0/edit#slide=id.p)
+- [Folder](https://drive.google.com/drive/folders/1XfqQ0XVUfxZNA--2XorXxu5-H0lK0z-c)
 
 ## Part 2: Data Strategies: Sharing challenges, plans, and priorities across Federal agencies  (Nov. 1, 2023)
 
 - [Notes document](https://docs.google.com/document/d/1rMePihjY7AeceuWhCzxbA42D8581ATtTs9U_6FRnp2Q/edit?tab=t.0)
 - [Intro slides](https://docs.google.com/presentation/d/109bIKl3O1lLQwhkuvYoajbWBfzZAa3qgZN5I3JPwlcU/edit#slide=id.p)
+- [Folder](https://drive.google.com/drive/u/0/folders/1hJi4Y7E6psETHgprVAlnsUsc9wrrabma)
 
 
 ## Part 3: Federal Data Strategies: How can Federal agencies build trust throughout the Earth science data life cycle? (Jan. 24, 2024)
 - [Session description](https://2024januaryesipmeeting.sched.com/event/1XYTE)
 - [Notes document](https://docs.google.com/document/d/1NRYkHtt4ObRPuyGbuAtpYz8LRSLpsRTUNsesWE4LNIM/edit?tab=t.0)
 - [Intro slides](https://docs.google.com/presentation/d/1T6p4OwqxYfCAvxIioXef2J7a9F5RQUibtJHh6YZ-aTk/edit#slide=id.p)
+- [Folder](https://drive.google.com/drive/folders/1YztxV4SIynlBC_sYC1JIuTF-H7wjYE03)
 
 ## Part 4: Federal Data Strategies: How can Federal agencies harness partnerships and innovation to maximize the impact of Earth science data resources? (January 23, 2025)
 - [Session description](https://2025januaryesipmeeting.sched.com/event/1sna1/federal-data-strategies-how-can-federal-agencies-harness-partnerships-and-innovation-to-maximize-the-impact-of-earth-science-data-resources)
+- Notes document
+- Intro slides
+- Folder
 
 
 
