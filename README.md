@@ -25,9 +25,9 @@ Materials compiled from the Federal Data Strategies session series.
 
 ## Part 4: Federal Data Strategies: How can Federal agencies harness partnerships and innovation to maximize the impact of Earth science data resources? (January 23, 2025)
 - [Session description](https://2025januaryesipmeeting.sched.com/event/1sna1/federal-data-strategies-how-can-federal-agencies-harness-partnerships-and-innovation-to-maximize-the-impact-of-earth-science-data-resources)
-- Notes document
-- Intro slides
-- Folder
+- [Notes document](https://docs.google.com/document/d/17yOL1pLMFeOS2Vp2ZoBp23q-3i7MzdH9REhgScyx9hQ/edit?usp=sharing)
+- [Intro slides](https://docs.google.com/presentation/d/18rSbM6znhRZCgUpVM_2SAIvUljpCf4lY/edit?usp=sharing&ouid=103862359737837642914&rtpof=true&sd=true)
+- [Folder](https://drive.google.com/drive/folders/1IGm5OouneYP_ZYdf_oE-leBztROwqo9E?usp=drive_link) 
 
 
 
