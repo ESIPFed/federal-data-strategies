@@ -29,7 +29,11 @@ Materials compiled from the Federal Data Strategies session series.
 - [Intro slides](https://docs.google.com/presentation/d/18rSbM6znhRZCgUpVM_2SAIvUljpCf4lY/edit?usp=sharing&ouid=103862359737837642914&rtpof=true&sd=true)
 - [Folder](https://drive.google.com/drive/folders/1IGm5OouneYP_ZYdf_oE-leBztROwqo9E?usp=drive_link) 
 
-
+## Part 5: Federal Data Strategies: Successes and Opportunities for Bridging Divides (July 29, 2026)
+- [Session description](https://2026julyesipmeeting.sched.com/event/2OZsp/federal-data-strategies-successes-and-opportunities-for-bridging-divides)
+- [Notes document](https://docs.google.com/document/d/1piR2Rg6pYHVW3jtP4_iV-51BFLrBuJqfjN5ewL0HBQU/edit?tab=t.0)
+- [Intro slides](https://drive.google.com/file/d/1tOEy07G8iGjGOh6cxiifhykNdjo2M3wU/view?usp=sharing)
+- [Folder](https://drive.google.com/drive/folders/1s4hVObeOo8d8kbKfm5mZg6o_g5rBJ4vP) 
 
 ## Related Links
 - [Compiled links doc](https://docs.google.com/document/d/1EaslJx4XR7JxIh8mLW-Fa0nYcdt4axqM69v1uOcDyG0/edit?tab=t.0#heading=h.bv0clk9ygtqh)
