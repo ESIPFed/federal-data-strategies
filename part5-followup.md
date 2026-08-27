@@ -6,7 +6,7 @@
 2. Show me all the fuel break data and studies, and show me where they occur and what USGS Center or other organization funded them? 
 3. What air-borne chemicals derived from wildfires has a person at a specific location during some span of days (few days to years) been exposed to, at what concentration,  and what error bounds are there on the concentration.    We could break it down into subquestions, eg, what materials where burned, what chemicals were released from the burning materials.
 4. What man-made facilities (eg manufacturing sites, landfills) or known sources of environmental toxins where burned for a given fire.
-5. Simplified: Locate all postfire debris flows that occurred within the last 5 years in Colorado. 
+5. Simplified: What man-made facilities (eg manufacturing sites, landfills) or known sources of environmental toxins were burned in the Palisades fire?  
 6. Simplified: Locate all postfire debris flows that occurred within the last 5 years in Colorado. 
 
 
